@@ -1,0 +1,1665 @@
+[
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Harry Potter à l'école des sorciers",
+    "acceptedAliases": [
+      "Harry Potter à l'école des sorciers"
+    ],
+    "releaseYear": 2001,
+    "director": "Chris Columbus",
+    "promptText": "« Tu es un sorcier, Harry. »",
+    "secondaryClue": "Rubeus Hagrid révèle la vérité à un jeune garçon le jour de ses 11 ans.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Robbie Coltrane était le premier choix de J.K. Rowling pour incarner Hagrid."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Star Wars, épisode IV : Un nouvel espoir",
+    "acceptedAliases": [
+      "Star Wars, épisode IV : Un nouvel espoir",
+      "Star Wars",
+      "Star Wars 4",
+      "Un nouvel espoir",
+      "La Guerre des étoiles"
+    ],
+    "releaseYear": 1977,
+    "director": "George Lucas",
+    "promptText": "« Que la Force soit avec toi. »",
+    "secondaryClue": "Un jeune fermier rejoint une princesse et des rebelles contre un empire galactique.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Plusieurs scènes du désert ont été tournées en Tunisie."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Titanic",
+    "acceptedAliases": [
+      "Titanic"
+    ],
+    "releaseYear": 1997,
+    "director": "James Cameron",
+    "promptText": "« Je ne lâcherai jamais. Je te le promets. »",
+    "secondaryClue": "Un jeune artiste pauvre et une jeune femme fortunée se rencontrent à bord d’un paquebot.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le naufrage a été recréé dans une immense piscine et sur une reproduction du navire."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Forrest Gump",
+    "acceptedAliases": [
+      "Forrest Gump"
+    ],
+    "releaseYear": 1994,
+    "director": "Robert Zemeckis",
+    "promptText": "« La vie, c’est comme une boîte de chocolats : on ne sait jamais sur quoi on va tomber. »",
+    "secondaryClue": "Un homme au grand cœur traverse l’histoire américaine aux côtés de Jenny.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Tom Hanks a remporté l’Oscar du meilleur acteur pour ce rôle."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Matrix",
+    "acceptedAliases": [
+      "Matrix",
+      "The Matrix"
+    ],
+    "releaseYear": 1999,
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "promptText": "« Prends la pilule rouge. »",
+    "secondaryClue": "Un programmeur découvre que le monde qui l’entoure est une simulation.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "L’effet bullet time est devenu une signature visuelle du film."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Le Roi Lion",
+    "acceptedAliases": [
+      "Le Roi Lion",
+      "Roi Lion",
+      "The Lion King"
+    ],
+    "releaseYear": 1994,
+    "director": "Roger Allers, Rob Minkoff",
+    "promptText": "« Hakuna Matata. »",
+    "secondaryClue": "Un jeune lion doit reprendre sa place après la mort de son père Mufasa.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le film s’inspire librement de Hamlet de Shakespeare."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Le Seigneur des Anneaux : La Communauté de l'Anneau",
+    "acceptedAliases": [
+      "Le Seigneur des Anneaux : La Communauté de l'Anneau"
+    ],
+    "releaseYear": 2001,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Gladiator",
+    "acceptedAliases": [
+      "Gladiator"
+    ],
+    "releaseYear": 2000,
+    "director": "Ridley Scott",
+    "promptText": "« Mes yeux ont vu ce que vous ne verrez jamais. »",
+    "secondaryClue": "Un général romain trahi devient gladiateur pour venger sa famille.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Russell Crowe a remporté l’Oscar du meilleur acteur pour ce rôle."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Le Parrain",
+    "acceptedAliases": [
+      "Le Parrain",
+      "The Godfather",
+      "Le Parrain 1"
+    ],
+    "releaseYear": 1972,
+    "director": "Francis Ford Coppola",
+    "promptText": "« Je vais lui faire une offre qu’il ne pourra pas refuser. »",
+    "secondaryClue": "Michael Corleone prend progressivement la tête d’une puissante famille de la mafia.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Marlon Brando a refusé son Oscar pour protester contre la représentation des Amérindiens à Hollywood."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Toy Story",
+    "acceptedAliases": [
+      "Toy Story",
+      "Toy Story 1",
+      "Histoire de jouets"
+    ],
+    "releaseYear": 1995,
+    "director": "John Lasseter",
+    "promptText": "« Vers l’infini et au-delà ! »",
+    "secondaryClue": "Un cow-boy en plastique voit sa place de jouet préféré menacée par un astronaute.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "C’est le premier long métrage entièrement réalisé en images de synthèse."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Jurassic Park",
+    "acceptedAliases": [
+      "Jurassic Park"
+    ],
+    "releaseYear": 1993,
+    "director": "Steven Spielberg",
+    "promptText": "« La vie trouve toujours un chemin. »",
+    "secondaryClue": "Des scientifiques visitent un parc où des dinosaures ont été recréés à partir d’ADN.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Les rugissements du T-Rex mélangent des sons de chien, de cygne et d’éléphant."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Shrek",
+    "acceptedAliases": [
+      "Shrek",
+      "Shrek 1"
+    ],
+    "releaseYear": 2001,
+    "director": "Andrew Adamson, Vicky Jenson",
+    "promptText": "« Les ogres ont des couches. Les oignons aussi. »",
+    "secondaryClue": "Un ogre vert part sauver une princesse avec un âne très bavard.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le film a remporté le tout premier Oscar du meilleur film d’animation."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Le Fabuleux Destin d'Amélie Poulain",
+    "acceptedAliases": [
+      "Le Fabuleux Destin d'Amélie Poulain"
+    ],
+    "releaseYear": 2001,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Les Bronzés font du ski",
+    "acceptedAliases": [
+      "Les Bronzés font du ski"
+    ],
+    "releaseYear": 1979,
+    "director": "Patrice Leconte",
+    "promptText": "« On va tous mourir ! »",
+    "secondaryClue": "Le Club Med des vacances d’été se retrouve en station de ski.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "La troupe du Splendid y reprend ses personnages cultes."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Astérix et Obélix : Mission Cléopâtre",
+    "acceptedAliases": [
+      "Astérix et Obélix : Mission Cléopâtre"
+    ],
+    "releaseYear": 2002,
+    "director": "Alain Chabat",
+    "promptText": "« Je suis pas beau, je suis pas riche, mais je suis un homme libre ! »",
+    "secondaryClue": "Un architecte doit construire un palais en trois mois pour la reine d’Égypte.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le film est adapté de la bande dessinée Astérix et Cléopâtre."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "La Cité de la peur",
+    "acceptedAliases": [
+      "La Cité de la peur"
+    ],
+    "releaseYear": 1994,
+    "director": "Alain Berbérian",
+    "promptText": "« Il est pas frais mon poisson ? »",
+    "secondaryClue": "Deux gardes du corps protègent une actrice pendant le Festival de Cannes.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le film est né des sketches de la troupe des Nuls."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Les Évadés",
+    "acceptedAliases": [
+      "Les Évadés",
+      "The Shawshank Redemption",
+      "Shawshank"
+    ],
+    "releaseYear": 1994,
+    "director": "Frank Darabont",
+    "promptText": "« L’espoir est une bonne chose, peut-être la meilleure des choses. »",
+    "secondaryClue": "Un banquier condamné à tort se lie d’amitié avec un détenu au long cours.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le film est adapté d’une novella de Stephen King."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "La Ligne verte",
+    "acceptedAliases": [
+      "La Ligne verte",
+      "The Green Mile"
+    ],
+    "releaseYear": 1999,
+    "director": "Frank Darabont",
+    "promptText": "« Je suis fatigué, patron. »",
+    "secondaryClue": "Un gardien de prison découvre qu’un condamné possède un don extraordinaire.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le film est adapté d’un roman de Stephen King publié en feuilleton."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Fight Club",
+    "acceptedAliases": [
+      "Fight Club",
+      "Le Club des combattants"
+    ],
+    "releaseYear": 1999,
+    "director": "David Fincher",
+    "promptText": "« La première règle du Fight Club est de ne pas parler du Fight Club. »",
+    "secondaryClue": "Un employé insomniaque rencontre Tyler Durden lors d’un voyage professionnel.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le film est adapté du roman de Chuck Palahniuk."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Pulp Fiction",
+    "acceptedAliases": [
+      "Pulp Fiction"
+    ],
+    "releaseYear": 1994,
+    "director": "Quentin Tarantino",
+    "promptText": "« Dis « what » encore une fois. Dis « what » encore une fois, je t’en prie. »",
+    "secondaryClue": "Deux tueurs à gages discutent de hamburgers avant une mission pour leur patron.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "La valise mystérieuse n’a jamais eu de contenu officiellement révélé."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Silence des agneaux",
+    "acceptedAliases": [
+      "Le Silence des agneaux",
+      "The Silence of the Lambs"
+    ],
+    "releaseYear": 1991,
+    "director": "Jonathan Demme",
+    "promptText": "« Un recensement récent a établi que l’homme est le seul être vivant à chasser et tuer sa propre espèce. »",
+    "secondaryClue": "Une jeune agente du FBI consulte un psychiatre cannibale emprisonné.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le film a remporté les cinq principales catégories des Oscars."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Bon, la Brute et le Truand",
+    "acceptedAliases": [
+      "Le Bon, la Brute et le Truand",
+      "Il buono, il brutto, il cattivo",
+      "The Good, the Bad and the Ugly"
+    ],
+    "releaseYear": 1966,
+    "director": "Sergio Leone",
+    "promptText": "« Si tu veux tirer, tire. Ne parle pas. »",
+    "secondaryClue": "Trois hommes cherchent un trésor caché dans un cimetière pendant la guerre de Sécession.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "La musique d’Ennio Morricone est devenue l’un des thèmes les plus imités du western."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Inception",
+    "acceptedAliases": [
+      "Inception",
+      "Origine"
+    ],
+    "releaseYear": 2010,
+    "director": "Christopher Nolan",
+    "promptText": "« Une idée est comme un virus. »",
+    "secondaryClue": "Une équipe vole ou implante des idées dans les rêves de cibles choisies.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "La musique de Hans Zimmer s’inspire d’une version ralentie de Non, je ne regrette rien."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Interstellar",
+    "acceptedAliases": [
+      "Interstellar"
+    ],
+    "releaseYear": 2014,
+    "director": "Christopher Nolan",
+    "promptText": "« L’amour est la seule chose qui transcende le temps et l’espace. »",
+    "secondaryClue": "Un ancien pilote part à travers un trou de ver pour sauver l’humanité.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le physicien Kip Thorne a conseillé le film sur les trous noirs et la relativité."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Prestige",
+    "acceptedAliases": [
+      "Le Prestige"
+    ],
+    "releaseYear": 2006,
+    "director": "Christopher Nolan",
+    "promptText": "« Êtes-vous attentifs ? »",
+    "secondaryClue": "Deux magiciens londoniens rivalisent pour créer le tour le plus spectaculaire.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le film réunit Christian Bale et Hugh Jackman dans une rivalité obsessionnelle."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "La La Land",
+    "acceptedAliases": [
+      "La La Land"
+    ],
+    "releaseYear": 2016,
+    "director": "Damien Chazelle",
+    "promptText": "« Voici les rêveurs fous qui pensent pouvoir changer le monde. »",
+    "secondaryClue": "Une actrice et un pianiste de jazz tentent de réussir à Los Angeles.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le film a remporté six Oscars, dont celui de la meilleure actrice pour Emma Stone."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Discours d'un roi",
+    "acceptedAliases": [
+      "Le Discours d'un roi"
+    ],
+    "releaseYear": 2010,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Loup de Wall Street",
+    "acceptedAliases": [
+      "Le Loup de Wall Street",
+      "The Wolf of Wall Street"
+    ],
+    "releaseYear": 2013,
+    "director": "Martin Scorsese",
+    "promptText": "« Vends-moi ce stylo. »",
+    "secondaryClue": "Un courtier new-yorkais construit une fortune par la fraude avant de tout perdre.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le film est inspiré de la vie de Jordan Belfort."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Whiplash",
+    "acceptedAliases": [
+      "Whiplash"
+    ],
+    "releaseYear": 2014,
+    "director": "Damien Chazelle",
+    "promptText": "« Il n’y a pas deux mots plus dangereux que « pas mal ». »",
+    "secondaryClue": "Un jeune batteur de jazz affronte un professeur de conservatoire tyrannique.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "J.K. Simmons a remporté l’Oscar du meilleur acteur dans un second rôle."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Voyage de Chihiro",
+    "acceptedAliases": [
+      "Le Voyage de Chihiro",
+      "Spirited Away",
+      "Chihiro"
+    ],
+    "releaseYear": 2001,
+    "director": "Hayao Miyazaki",
+    "promptText": "« Une fois que tu as rencontré quelqu’un, tu ne peux jamais vraiment l’oublier. »",
+    "secondaryClue": "Une fillette travaille dans des bains publics pour esprits afin de sauver ses parents.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le film a remporté l’Oscar du meilleur film d’animation en 2003."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Château ambulant",
+    "acceptedAliases": [
+      "Le Château ambulant",
+      "Howl's Moving Castle"
+    ],
+    "releaseYear": 2004,
+    "director": "Hayao Miyazaki",
+    "promptText": "« Un cœur est un lourd fardeau. »",
+    "secondaryClue": "Une jeune modiste maudite devient vieille et trouve refuge dans un château magique.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le film est adapté du roman de Diana Wynne Jones."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Princesse Mononoké",
+    "acceptedAliases": [
+      "Princesse Mononoké",
+      "Mononoke Hime",
+      "Princess Mononoke"
+    ],
+    "releaseYear": 1997,
+    "director": "Hayao Miyazaki",
+    "promptText": "« La vie est souffrance. C’est ainsi. »",
+    "secondaryClue": "Un jeune prince cherche à réconcilier les humains et les dieux de la forêt.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "Le film aborde déjà les conflits entre industrie et nature chers à Miyazaki."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Retour vers le futur",
+    "acceptedAliases": [
+      "Retour vers le futur"
+    ],
+    "releaseYear": 1985,
+    "director": "Robert Zemeckis",
+    "promptText": "« Route 88 ? »",
+    "secondaryClue": "Marty McFly remonte en 1955 à bord d’une voiture modifiée par Doc.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "La DeLorean est devenue l’un des véhicules les plus célèbres du cinéma."
+  },
+  {
+    "categoryName": "QUOTE",
+    "difficultyName": "EASY",
+    "movieTitle": "Pirates des Caraïbes : La Malédiction du Black Pearl",
+    "acceptedAliases": [
+      "Pirates des Caraïbes : La Malédiction du Black Pearl"
+    ],
+    "releaseYear": 2003,
+    "director": "Gore Verbinski",
+    "promptText": "« Vous avez oublié une chose : je suis un homme sans honneur. »",
+    "secondaryClue": "Jack Sparrow recherche son navire perdu avec l’aide de Will Turner.",
+    "imageSource": "",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": "La boussole de Jack est devenue l’un des objets les plus emblématiques de la saga."
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "EASY",
+    "movieTitle": "Retour vers le futur",
+    "acceptedAliases": [
+      "Retour vers le futur"
+    ],
+    "releaseYear": 1985,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/retour_vers_le_futur_delorean.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "EASY",
+    "movieTitle": "Le Seigneur des Anneaux : La Communauté de l'Anneau",
+    "acceptedAliases": [
+      "Le Seigneur des Anneaux : La Communauté de l'Anneau"
+    ],
+    "releaseYear": 2001,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/le_seigneur_des_anneaux_anneau_unique.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "EASY",
+    "movieTitle": "Harry Potter à l'école des sorciers",
+    "acceptedAliases": [
+      "Harry Potter à l'école des sorciers"
+    ],
+    "releaseYear": 2001,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/harry_potter_baguette_lettre.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "EASY",
+    "movieTitle": "Jurassic Park",
+    "acceptedAliases": [
+      "Jurassic Park"
+    ],
+    "releaseYear": 1993,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/jurassic_park_ambre_moustique.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "EASY",
+    "movieTitle": "Star Wars, épisode V : L'Empire contre-attaque",
+    "acceptedAliases": [
+      "Star Wars, épisode V : L'Empire contre-attaque"
+    ],
+    "releaseYear": 1980,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/star_wars_dark_vador_sabre_rouge.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "EASY",
+    "movieTitle": "Titanic",
+    "acceptedAliases": [
+      "Titanic"
+    ],
+    "releaseYear": 1997,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/titanic_coeur_de_la_mer.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "EASY",
+    "movieTitle": "Le Roi Lion",
+    "acceptedAliases": [
+      "Le Roi Lion",
+      "Roi Lion",
+      "The Lion King"
+    ],
+    "releaseYear": 1994,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/le_roi_lion_presentation_simba.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "EASY",
+    "movieTitle": "Le Seigneur des Anneaux : Le Retour du roi",
+    "acceptedAliases": [
+      "Le Seigneur des Anneaux : Le Retour du roi",
+      "Le Seigneur des Anneaux",
+      "Le Retour du roi",
+      "LOTR 3",
+      "Le Seigneur des Anneaux 3"
+    ],
+    "releaseYear": 2003,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/le_seigneur_des_anneaux_couronne_aragorn.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "EASY",
+    "movieTitle": "Pirates des Caraïbes : La Malédiction du Black Pearl",
+    "acceptedAliases": [
+      "Pirates des Caraïbes : La Malédiction du Black Pearl"
+    ],
+    "releaseYear": 2003,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/pirates_des_caraibes_boussole_jack_sparrow.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "EASY",
+    "movieTitle": "Indiana Jones et les Aventuriers de l'arche perdue",
+    "acceptedAliases": [
+      "Indiana Jones et les Aventuriers de l'arche perdue"
+    ],
+    "releaseYear": 1981,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/indiana_jones_rocher_temple.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "EASY",
+    "movieTitle": "Le Seigneur des Anneaux : Les Deux Tours",
+    "acceptedAliases": [
+      "Le Seigneur des Anneaux : Les Deux Tours",
+      "Le Seigneur des Anneaux",
+      "Les Deux Tours",
+      "LOTR 2",
+      "Le Seigneur des Anneaux 2"
+    ],
+    "releaseYear": 2002,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/le_seigneur_des_anneaux_fort_de_cor.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "EASY",
+    "movieTitle": "Le Voyage de Chihiro",
+    "acceptedAliases": [
+      "Le Voyage de Chihiro",
+      "Spirited Away",
+      "Chihiro"
+    ],
+    "releaseYear": 2001,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/le_voyage_de_chihiro_tunnel.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "EASY",
+    "movieTitle": "Le Château ambulant",
+    "acceptedAliases": [
+      "Le Château ambulant",
+      "Howl's Moving Castle"
+    ],
+    "releaseYear": 2004,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/le_chateau_ambulant_chateau.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Blade Runner",
+    "acceptedAliases": [
+      "Blade Runner",
+      "Blade Runner 1"
+    ],
+    "releaseYear": 1982,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/blade_runner_ville_neon.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "2001 : L'Odyssée de l'espace",
+    "acceptedAliases": [
+      "2001 : L'Odyssée de l'espace"
+    ],
+    "releaseYear": 1968,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/2001_odysee_espace_monolithe.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Alien : Le Huitième Passager",
+    "acceptedAliases": [
+      "Alien : Le Huitième Passager",
+      "Alien",
+      "Alien 1"
+    ],
+    "releaseYear": 1979,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/alien_chestburster.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Shining",
+    "acceptedAliases": [
+      "Shining"
+    ],
+    "releaseYear": 1980,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/shining_hache_porte.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Prestige",
+    "acceptedAliases": [
+      "Le Prestige"
+    ],
+    "releaseYear": 2006,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/le_prestige_machine_tesla.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Inception",
+    "acceptedAliases": [
+      "Inception",
+      "Origine"
+    ],
+    "releaseYear": 2010,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/inception_ville_pliee.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Interstellar",
+    "acceptedAliases": [
+      "Interstellar"
+    ],
+    "releaseYear": 2014,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/interstellar_gargantua.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "La La Land",
+    "acceptedAliases": [
+      "La La Land"
+    ],
+    "releaseYear": 2016,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/la_la_land_danse_crepuscule.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Fabuleux Destin d'Amélie Poulain",
+    "acceptedAliases": [
+      "Le Fabuleux Destin d'Amélie Poulain"
+    ],
+    "releaseYear": 2001,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/amelie_poulain_boite_souvenirs.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Discours d'un roi",
+    "acceptedAliases": [
+      "Le Discours d'un roi"
+    ],
+    "releaseYear": 2010,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/le_discours_dun_roi_micro_radio.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Loup de Wall Street",
+    "acceptedAliases": [
+      "Le Loup de Wall Street",
+      "The Wolf of Wall Street"
+    ],
+    "releaseYear": 2013,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/le_loup_de_wall_street_argent_jete.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Whiplash",
+    "acceptedAliases": [
+      "Whiplash"
+    ],
+    "releaseYear": 2014,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/whiplash_batterie_mains.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Seigneur des Anneaux : La Communauté de l'Anneau",
+    "acceptedAliases": [
+      "Le Seigneur des Anneaux : La Communauté de l'Anneau"
+    ],
+    "releaseYear": 2001,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/le_seigneur_des_anneaux_communaute_depart.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Silence des agneaux",
+    "acceptedAliases": [
+      "Le Silence des agneaux",
+      "The Silence of the Lambs"
+    ],
+    "releaseYear": 1991,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/le_silence_des_agneaux_papillon_masque.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Pulp Fiction",
+    "acceptedAliases": [
+      "Pulp Fiction"
+    ],
+    "releaseYear": 1994,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/pulp_fiction_valise_mystere.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "POSTER_OBJECT",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Fight Club",
+    "acceptedAliases": [
+      "Fight Club",
+      "Le Club des combattants"
+    ],
+    "releaseYear": 1999,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "images_objets/fight_club_savon.jpg",
+    "audioSource": "",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "EASY",
+    "movieTitle": "Star Wars, épisode IV : Un nouvel espoir",
+    "acceptedAliases": [
+      "Star Wars, épisode IV : Un nouvel espoir",
+      "Star Wars",
+      "Star Wars 4",
+      "Un nouvel espoir",
+      "La Guerre des étoiles"
+    ],
+    "releaseYear": 1977,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/star_wars_theme_principal.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "EASY",
+    "movieTitle": "Titanic",
+    "acceptedAliases": [
+      "Titanic"
+    ],
+    "releaseYear": 1997,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/titanic_my_heart_will_go_on.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "EASY",
+    "movieTitle": "Le Roi Lion",
+    "acceptedAliases": [
+      "Le Roi Lion",
+      "Roi Lion",
+      "The Lion King"
+    ],
+    "releaseYear": 1994,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/le_roi_lion_circle_of_life.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "EASY",
+    "movieTitle": "Jurassic Park",
+    "acceptedAliases": [
+      "Jurassic Park"
+    ],
+    "releaseYear": 1993,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/jurassic_park_theme_principal.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "EASY",
+    "movieTitle": "Le Seigneur des Anneaux : La Communauté de l'Anneau",
+    "acceptedAliases": [
+      "Le Seigneur des Anneaux : La Communauté de l'Anneau"
+    ],
+    "releaseYear": 2001,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/le_seigneur_des_anneaux_theme_comte.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "EASY",
+    "movieTitle": "Harry Potter à l'école des sorciers",
+    "acceptedAliases": [
+      "Harry Potter à l'école des sorciers"
+    ],
+    "releaseYear": 2001,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/harry_potter_hedwigs_theme.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "EASY",
+    "movieTitle": "Le Seigneur des Anneaux : Le Retour du roi",
+    "acceptedAliases": [
+      "Le Seigneur des Anneaux : Le Retour du roi",
+      "Le Seigneur des Anneaux",
+      "Le Retour du roi",
+      "LOTR 3",
+      "Le Seigneur des Anneaux 3"
+    ],
+    "releaseYear": 2003,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/le_seigneur_des_anneaux_into_the_west.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "EASY",
+    "movieTitle": "Le Voyage de Chihiro",
+    "acceptedAliases": [
+      "Le Voyage de Chihiro",
+      "Spirited Away",
+      "Chihiro"
+    ],
+    "releaseYear": 2001,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/le_voyage_de_chihiro_one_summers_day.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "EASY",
+    "movieTitle": "Le Château ambulant",
+    "acceptedAliases": [
+      "Le Château ambulant",
+      "Howl's Moving Castle"
+    ],
+    "releaseYear": 2004,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/le_chateau_ambulant_merry_go_round_of_life.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "EASY",
+    "movieTitle": "La La Land",
+    "acceptedAliases": [
+      "La La Land"
+    ],
+    "releaseYear": 2016,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/la_la_land_city_of_stars.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "EASY",
+    "movieTitle": "Ratatouille",
+    "acceptedAliases": [
+      "Ratatouille"
+    ],
+    "releaseYear": 2007,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/ratatouille_le_festin.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Seigneur des Anneaux : Les Deux Tours",
+    "acceptedAliases": [
+      "Le Seigneur des Anneaux : Les Deux Tours",
+      "Le Seigneur des Anneaux",
+      "Les Deux Tours",
+      "LOTR 2",
+      "Le Seigneur des Anneaux 2"
+    ],
+    "releaseYear": 2002,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/le_seigneur_des_anneaux_gollums_song.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Gladiator",
+    "acceptedAliases": [
+      "Gladiator"
+    ],
+    "releaseYear": 2000,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/gladiator_now_we_are_free.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Bon, la Brute et le Truand",
+    "acceptedAliases": [
+      "Le Bon, la Brute et le Truand",
+      "Il buono, il brutto, il cattivo",
+      "The Good, the Bad and the Ugly"
+    ],
+    "releaseYear": 1966,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/le_bon_la_brute_et_le_truand_theme.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Parrain",
+    "acceptedAliases": [
+      "Le Parrain",
+      "The Godfather",
+      "Le Parrain 1"
+    ],
+    "releaseYear": 1972,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/le_parrain_speak_softly_love.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Silence des agneaux",
+    "acceptedAliases": [
+      "Le Silence des agneaux",
+      "The Silence of the Lambs"
+    ],
+    "releaseYear": 1991,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/le_silence_des_agneaux_theme.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Blade Runner",
+    "acceptedAliases": [
+      "Blade Runner",
+      "Blade Runner 1"
+    ],
+    "releaseYear": 1982,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/blade_runner_theme_principal.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "2001 : L'Odyssée de l'espace",
+    "acceptedAliases": [
+      "2001 : L'Odyssée de l'espace"
+    ],
+    "releaseYear": 1968,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/2001_odysee_espace_zarathoustra.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Alien : Le Huitième Passager",
+    "acceptedAliases": [
+      "Alien : Le Huitième Passager",
+      "Alien",
+      "Alien 1"
+    ],
+    "releaseYear": 1979,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/alien_theme_principal.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Shining",
+    "acceptedAliases": [
+      "Shining"
+    ],
+    "releaseYear": 1980,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/shining_theme_principal.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Inception",
+    "acceptedAliases": [
+      "Inception",
+      "Origine"
+    ],
+    "releaseYear": 2010,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/inception_time.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Interstellar",
+    "acceptedAliases": [
+      "Interstellar"
+    ],
+    "releaseYear": 2014,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/interstellar_theme_principal.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Prestige",
+    "acceptedAliases": [
+      "Le Prestige"
+    ],
+    "releaseYear": 2006,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/le_prestige_theme_principal.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Discours d'un roi",
+    "acceptedAliases": [
+      "Le Discours d'un roi"
+    ],
+    "releaseYear": 2010,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/le_discours_dun_roi_theme.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Whiplash",
+    "acceptedAliases": [
+      "Whiplash"
+    ],
+    "releaseYear": 2014,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/whiplash_whiplash.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Fabuleux Destin d'Amélie Poulain",
+    "acceptedAliases": [
+      "Le Fabuleux Destin d'Amélie Poulain"
+    ],
+    "releaseYear": 2001,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/amelie_poulain_la_valse_damelie.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Le Loup de Wall Street",
+    "acceptedAliases": [
+      "Le Loup de Wall Street",
+      "The Wolf of Wall Street"
+    ],
+    "releaseYear": 2013,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/le_loup_de_wall_street_mrs_robinson.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "MEDIUM",
+    "movieTitle": "Princesse Mononoké",
+    "acceptedAliases": [
+      "Princesse Mononoké",
+      "Mononoke Hime",
+      "Princess Mononoke"
+    ],
+    "releaseYear": 1997,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/princesse_mononoke_theme_principal.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "HARD",
+    "movieTitle": "Le Mépris",
+    "acceptedAliases": [
+      "Le Mépris"
+    ],
+    "releaseYear": 1963,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/le_mepris_theme_principal.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "HARD",
+    "movieTitle": "Persona",
+    "acceptedAliases": [
+      "Persona"
+    ],
+    "releaseYear": 1966,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/persona_musique_ouverture.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "HARD",
+    "movieTitle": "Le Miroir",
+    "acceptedAliases": [
+      "Le Miroir"
+    ],
+    "releaseYear": 1975,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/le_miroir_musique_classique.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "HARD",
+    "movieTitle": "Stalker",
+    "acceptedAliases": [
+      "Stalker"
+    ],
+    "releaseYear": 1979,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/stalker_ambiance_sonore.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "HARD",
+    "movieTitle": "La Jetée",
+    "acceptedAliases": [
+      "La Jetée"
+    ],
+    "releaseYear": 1962,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/la_jettee_bande_sonore.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "HARD",
+    "movieTitle": "8½",
+    "acceptedAliases": [
+      "8½",
+      "Huit et demi",
+      "Otto e mezzo",
+      "8 1/2"
+    ],
+    "releaseYear": 1963,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/8_et_demi_musique_nino_rota.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "HARD",
+    "movieTitle": "La Dolce Vita",
+    "acceptedAliases": [
+      "La Dolce Vita",
+      "La vie douce"
+    ],
+    "releaseYear": 1960,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/la_dolce_vita_musique_nino_rota.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  },
+  {
+    "categoryName": "MUSIC_THEME",
+    "difficultyName": "HARD",
+    "movieTitle": "Le Mépris du risque",
+    "acceptedAliases": [
+      "Le Mépris du risque"
+    ],
+    "releaseYear": 1975,
+    "director": "",
+    "promptText": "",
+    "secondaryClue": "",
+    "imageSource": "",
+    "audioSource": "musiques/le_mepris_du_risque_musique_francis_lai.mp3",
+    "melodyNotesCsv": "",
+    "funFact": ""
+  }
+]
